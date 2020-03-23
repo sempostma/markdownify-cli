@@ -1,11 +1,10 @@
 {
   "name": "markdownify-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Convert a website to static markdown.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "keywords": ["markdown", "yaml", "frontmatter", "crawler"],
+  "scripts": {},
   "bin": {
     "markdownify": "bin/index.js"
   },
