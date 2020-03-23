@@ -25,9 +25,14 @@ md-pull process -h
 ## Options
 
 --out: The absolute or relative output directory
+
 --root: The root element (css selector), for example main, body, #table_with_data or .first_css_class
+
 --imagedir: The directory for images, for example img
+
 --publicimagepath: The path to the images as outputted in markdown. Can be usefull if you expect the images to be in a specific folder.
+
 --crawl: Recursively crawl all pages
+
 --frontmatter: Include important front matter items
 
