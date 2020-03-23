@@ -10,7 +10,7 @@ npm i -g markdownify-cli
 ## Usage
 
 ```bash
-md-pull process -h
+markdownify process -h
 # Usage: process [options] [urls...]
 
 # Options:

@@ -1,13 +1,13 @@
 {
-  "name": "md-pull",
-  "version": "1.0.2",
+  "name": "markdownify-cli",
+  "version": "1.0.3",
   "description": "Convert a website to static markdown.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "md-pull": "bin/index.js"
+    "markdownify": "bin/index.js"
   },
   "preferGlobal": true,
   "author": "Sem Postma",
