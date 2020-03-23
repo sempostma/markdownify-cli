@@ -4,7 +4,7 @@ Convert a website to static markdown.
 ## Install
 
 ```bash
-npm i -g https://github.com/sempostma/markdownify-cli.git
+npm i -g markdownify-cli
 ```
 
 ## Usage
